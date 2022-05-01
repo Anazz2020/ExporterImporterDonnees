@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Client>
+    <cin>cin 10</cin>
+    <Genre>Homme</Genre>
+    <Nom>Ali</Nom>
+    <numero_magasin>1111</numero_magasin>
+  </Client>
+  <Client>
+    <cin>cin 11</cin>
+    <Genre>Homme</Genre>
+    <Nom>Allal</Nom>
+    <numero_magasin>2222</numero_magasin>
+  </Client>
+  <Client>
+    <cin>cin 12</cin>
+    <Genre>Homme</Genre>
+    <Nom>Foad</Nom>
+    <numero_magasin>3333</numero_magasin>
+  </Client>
+  <Client>
+    <cin>cin 13</cin>
+    <Genre>Homme</Genre>
+    <Nom>Rachid</Nom>
+    <numero_magasin>4444</numero_magasin>
+  </Client>
+</NewDataSet>

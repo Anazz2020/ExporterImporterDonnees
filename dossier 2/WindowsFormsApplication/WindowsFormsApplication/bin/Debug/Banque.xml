@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <code_banque>1</code_banque>
+    <Adresse_siege>siege 1</Adresse_siege>
+    <Tel>84</Tel>
+    <Ville>ville 1</Ville>
+  </Table>
+  <Table>
+    <code_banque>2</code_banque>
+    <Adresse_siege>siege 2</Adresse_siege>
+    <Tel>85</Tel>
+    <Ville>ville 2</Ville>
+  </Table>
+  <Table>
+    <code_banque>3</code_banque>
+    <Adresse_siege>siege 3</Adresse_siege>
+    <Tel>65</Tel>
+    <Ville>ville 3</Ville>
+  </Table>
+  <Table>
+    <code_banque>4</code_banque>
+    <Adresse_siege>siege 4</Adresse_siege>
+    <Tel>70</Tel>
+    <Ville>ville 4</Ville>
+  </Table>
+  <Table>
+    <code_banque>5</code_banque>
+    <Adresse_siege>siege 5</Adresse_siege>
+    <Tel>96</Tel>
+    <Ville>ville 5</Ville>
+  </Table>
+</NewDataSet>

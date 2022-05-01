@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Cheque>
+    <numero_cheque>1</numero_cheque>
+    <date_emission>2001-01-01T00:00:00+00:00</date_emission>
+    <montant>111.0000</montant>
+    <code_motif>1</code_motif>
+    <cin>cin1</cin>
+    <code_banque>1</code_banque>
+    <numero_magasin>1</numero_magasin>
+  </Cheque>
+  <Cheque>
+    <numero_cheque>2</numero_cheque>
+    <date_emission>2002-02-02T00:00:00+00:00</date_emission>
+    <montant>222.0000</montant>
+    <code_motif>2</code_motif>
+    <cin>cin2</cin>
+    <code_banque>2</code_banque>
+    <numero_magasin>2</numero_magasin>
+  </Cheque>
+</NewDataSet>

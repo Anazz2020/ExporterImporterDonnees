@@ -1,0 +1,62 @@
+D:\NomPrenom_V1\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.Form1.resources
+D:\NomPrenom_V1\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.FormListeClient.resources
+D:\NomPrenom_V1\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.Properties.Resources.resources
+D:\NomPrenom_V1\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.csproj.GenerateResource.Cache
+D:\NomPrenom_V1\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\RdlCompile.cache
+D:\NomPrenom_V1\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\RdlCompile.compiled
+D:\NomPrenom_V1\dossier 2\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe.config
+D:\NomPrenom_V1\dossier 2\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe
+D:\NomPrenom_V1\dossier 2\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.pdb
+D:\NomPrenom_V1\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.exe
+D:\NomPrenom_V1\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.pdb
+D:\NomPrenom_V1\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.Form2ListeClient.resources
+D:\NomPrenom_V1\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.FormListeClientFiltree.resources
+D:\NomPrenom_V1\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.FormRegroupementClientParVille.resources
+D:\NomPrenom_V1\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.FormClientRegroupesParVilleColonnes.resources
+D:\NomPrenom_V1\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.FormClientRegroupesParVilleColonnesFiltree.resources
+D:\NomPrenom_V1\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.FormHistogrammeNombreClientParVille.resources
+D:\NomPrenom_V1\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.SecteursNombreClientParVille.resources
+D:\NomPrenom_V1\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.FormDeconnecteClient.resources
+D:\NomPrenom_V1\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.FormConnecteClient.resources
+D:\NomPrenom_V1\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.FormExporterFromDataBaseToExcel.resources
+D:\NomPrenom_V1\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.FormExportDataFromDataSetToXML.resources
+D:\NomPrenom_V1\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.FormImporterDataFromXMLtoDataGridView.resources
+D:\NomPrenom_V1\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.FormExporterDataFormTableToXml.resources
+D:\NomPrenom_V1\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.FormExporterDataToHtml.resources
+D:\NomPrenom_V1\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.csprojResolveAssemblyReference.cache
+D:\NomPrenom_V1\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.FormRechercherCheque.resources
+D:\NomPrenom_V1\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.FormGridClient.resources
+D:\Formation ISTA\TDI_200\TDI_2016-2017\201\ClientServeur\ExporterImporterDonnees\dossier 2\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe.config
+D:\Formation ISTA\TDI_200\TDI_2016-2017\201\ClientServeur\ExporterImporterDonnees\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.exe
+D:\Formation ISTA\TDI_200\TDI_2016-2017\201\ClientServeur\ExporterImporterDonnees\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.pdb
+D:\Formation ISTA\TDI_200\TDI_2016-2017\201\ClientServeur\ExporterImporterDonnees\dossier 2\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe
+D:\Formation ISTA\TDI_200\TDI_2016-2017\201\ClientServeur\ExporterImporterDonnees\dossier 2\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.pdb
+D:\Formation ISTA\TDI_200\TDI_2016-2017\201\ClientServeur\ExporterImporterDonnees\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.FormConnecteClient.resources
+D:\Formation ISTA\TDI_200\TDI_2016-2017\201\ClientServeur\ExporterImporterDonnees\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.FormDeconnecteClient.resources
+D:\Formation ISTA\TDI_200\TDI_2016-2017\201\ClientServeur\ExporterImporterDonnees\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.FormExportDataFromDataSetToXML.resources
+D:\Formation ISTA\TDI_200\TDI_2016-2017\201\ClientServeur\ExporterImporterDonnees\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.FormExporterDataFormTableToXml.resources
+D:\Formation ISTA\TDI_200\TDI_2016-2017\201\ClientServeur\ExporterImporterDonnees\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.FormExporterDataToHtml.resources
+D:\Formation ISTA\TDI_200\TDI_2016-2017\201\ClientServeur\ExporterImporterDonnees\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.FormExporterFromDataBaseToExcel.resources
+D:\Formation ISTA\TDI_200\TDI_2016-2017\201\ClientServeur\ExporterImporterDonnees\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.FormGridClient.resources
+D:\Formation ISTA\TDI_200\TDI_2016-2017\201\ClientServeur\ExporterImporterDonnees\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.FormImporterDataFromXMLtoDataGridView.resources
+D:\Formation ISTA\TDI_200\TDI_2016-2017\201\ClientServeur\ExporterImporterDonnees\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.FormRechercherCheque.resources
+D:\Formation ISTA\TDI_200\TDI_2016-2017\201\ClientServeur\ExporterImporterDonnees\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.SecteursNombreClientParVille.resources
+D:\Formation ISTA\TDI_200\TDI_2016-2017\201\ClientServeur\ExporterImporterDonnees\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.FormClientRegroupesParVilleColonnesFiltree.resources
+D:\Formation ISTA\TDI_200\TDI_2016-2017\201\ClientServeur\ExporterImporterDonnees\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.FormClientRegroupesParVilleColonnes.resources
+D:\Formation ISTA\TDI_200\TDI_2016-2017\201\ClientServeur\ExporterImporterDonnees\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.FormHistogrammeNombreClientParVille.resources
+D:\Formation ISTA\TDI_200\TDI_2016-2017\201\ClientServeur\ExporterImporterDonnees\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.FormListeClientFiltree.resources
+D:\Formation ISTA\TDI_200\TDI_2016-2017\201\ClientServeur\ExporterImporterDonnees\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.Form1.resources
+D:\Formation ISTA\TDI_200\TDI_2016-2017\201\ClientServeur\ExporterImporterDonnees\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.Form2ListeClient.resources
+D:\Formation ISTA\TDI_200\TDI_2016-2017\201\ClientServeur\ExporterImporterDonnees\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.FormListeClient.resources
+D:\Formation ISTA\TDI_200\TDI_2016-2017\201\ClientServeur\ExporterImporterDonnees\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.FormRegroupementClientParVille.resources
+D:\Formation ISTA\TDI_200\TDI_2016-2017\201\ClientServeur\ExporterImporterDonnees\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.Properties.Resources.resources
+D:\Formation ISTA\TDI_200\TDI_2016-2017\201\ClientServeur\ExporterImporterDonnees\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\RdlCompile.cache
+D:\Formation ISTA\TDI_200\TDI_2016-2017\201\ClientServeur\ExporterImporterDonnees\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\RdlCompile.compiled
+D:\Formation ISTA\TDI_200\TDI_2016-2017\201\ClientServeur\ExporterImporterDonnees\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.FormExportDataFromDataTableToXML.resources
+D:\Formation ISTA\TDI_200\TDI_2016-2017\201\ClientServeur\ExporterImporterDonnees\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.FormExportVersCSV.resources
+D:\Formation ISTA\TDI_200\TDI_2016-2017\201\ClientServeur\ExporterImporterDonnees\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.FormImporterDataFromXMLtoDataGridViewOpenFileDialog.resources
+D:\Formation ISTA\TDI_200\TDI_2016-2017\201\ClientServeur\ExporterImporterDonnees\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.csprojResolveAssemblyReference.cache
+D:\Formation ISTA\TDI_200\TDI_2016-2017\201\ClientServeur\ExporterImporterDonnees\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.csproj.GenerateResource.Cache
+C:\Users\Tipico Gmbh\Desktop\ExporterImporterDonnees\dossier 2\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe.config
+C:\Users\Tipico Gmbh\Desktop\ExporterImporterDonnees\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.exe
+C:\Users\Tipico Gmbh\Desktop\ExporterImporterDonnees\dossier 2\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.pdb
